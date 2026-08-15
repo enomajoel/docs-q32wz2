@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1k8phv.salamcuan.sbs/sitemap.xml
